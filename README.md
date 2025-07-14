@@ -27,7 +27,7 @@ Here are the main topics I’m currently focusing on:
 | ✅ Conditional Statements  | Completed    |
 | ✅ Loops (for, while)      | Completed    |
 | ✅ Functions               | Completed    |
-| ✅ Lists, Tuples, Sets     | Ongoing      |
+| ✅ Lists, Tuples, Sets     | Completed    |
 | ⏳ Dictionaries            | Ongoing      |
 | 🔜 File Handling           | Upcoming     |
 | 🔜 Object-Oriented Programming | Upcoming |
