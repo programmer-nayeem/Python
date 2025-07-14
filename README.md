@@ -28,7 +28,7 @@ Here are the main topics I’m currently focusing on:
 | ✅ Loops (for, while)      | Completed    |
 | ✅ Functions               | Completed    |
 | ✅ Lists, Tuples, Sets     | Completed    |
-| ⏳ Dictionaries            | Ongoing      |
+| ✅ Dictionaries            | Completed    |
 | 🔜 File Handling           | Upcoming     |
 | 🔜 Object-Oriented Programming | Upcoming |
 | 🔜 Error Handling          | Upcoming     |
