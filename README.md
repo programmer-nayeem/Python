@@ -73,5 +73,5 @@ Want to add your own examples or improve existing ones? Feel free to fork the re
 
 If you have any suggestions or questions, feel free to reach out or open an issue.
 
-Happy Coding! 🚀  
+Happy Python Coding! 🚀  
 ~ Cloud ☁️
