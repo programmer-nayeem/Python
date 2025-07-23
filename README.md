@@ -33,7 +33,7 @@ Here are the main topics I’m currently focusing on:
 | 🔜 Object-Oriented Programming | Upcoming |
 | 🔜 Error Handling          | Upcoming     |
 | 🔜 Modules & Packages      | Upcoming     |
-| 🔜 Mini Projects           | Upcoming     |
+| ✅ Mini Projects           | Completed    |
 
 
 ---
